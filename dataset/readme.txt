@@ -1,0 +1,2 @@
+two_cluster、three_cluster、five_cluster为不同簇数的点集，适用于Kmeans聚类
+spiral、Twomoons、ThreeCircles分别为螺旋分布、月牙分布、环形分布数据集。
